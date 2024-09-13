@@ -1,4 +1,4 @@
-# Weather Checker
+# Weather App
 
 A simple web application to check the current weather of any city, implemented using HTML, CSS, JavaScript, and an external weather API.
 
@@ -20,8 +20,8 @@ This project is a simple web application that allows users to check the current 
 
 ## Screenshots
 
-![Weather_Checker](https://github.com/user-attachments/assets/1ecb8a1c-29e7-4085-9f5b-187c4e635742)
-![image](https://github.com/user-attachments/assets/b5508bdc-f374-437b-83e0-9277848e29d0)
+![Weather_Checker](![Screenshot 2024-09-11 192522](https://github.com/user-attachments/assets/0b3708ab-1e09-4c1c-8a8d-abeeec38657f))
+![image](![Screenshot 2024-09-11 192905](https://github.com/user-attachments/assets/f64b284c-4463-44e6-87e0-5dc682c30e7a))
 
 
 ## Built With
@@ -42,7 +42,7 @@ You need a modern web browser to run this application and an API key from a weat
 
 1. Clone the repo:<br><br>
    ```sh
-   git clone https://github.com/sharath453/Whether_checker.git
+   git clone https://github.com/Prajwalgowda8660/Whether-App.git
 2. Open the index.html file in your browser to start the application.
 3. Replace the placeholder in the JavaScript file with your own API key from the weather service provider.
    
@@ -57,8 +57,7 @@ You need a modern web browser to run this application and an API key from a weat
 3. Responsive design
    
 ## Contact
-Email - alsharath66@gmail.com<br>
-LinkedIn - [Sharath A L](https://www.linkedin.com/in/sharath-a-l-877754249/)
+Email - prajwalgowdagowda65@gmail.com<br>
+LinkedIn - [PRAJWAL GOWDA HG ](https://www.linkedin.com/in/prajwal-gowda-h-g-148534242/)
 
-## Project Link
-https://github.com/sharath453/Whether_checker.git
+
